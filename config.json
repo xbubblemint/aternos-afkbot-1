@@ -1,7 +1,7 @@
 {
-	"host": "Enter your server ip or url.",
-	"port": "Enter your server port.",
-	"username": "Enter the AFKBot's username you want. (Whatever doesn't matter)",
+	"host": "bluemxon.aternos.me",
+	"port": "26737",
+	"username": "Barbatos",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
